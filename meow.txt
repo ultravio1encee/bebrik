@@ -1,7 +1,1 @@
-a = int(input())
-b = int(input())
-print(a - b)
-print("привет")
-print("пока")
-print(a * b)
-print("привет")
+c1
